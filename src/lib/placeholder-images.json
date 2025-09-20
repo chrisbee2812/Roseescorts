@@ -1,0 +1,46 @@
+{
+  "placeholderImages": [
+    {
+      "id": "homepage-hero",
+      "description": "Abstract background for homepage hero",
+      "imageUrl": "https://picsum.photos/seed/elite1/1920/1080",
+      "imageHint": "abstract pattern"
+    },
+    {
+      "id": "profile-1",
+      "description": "Professional photo of a female staff member",
+      "imageUrl": "https://picsum.photos/seed/prof1/400/600",
+      "imageHint": "professional woman"
+    },
+    {
+      "id": "profile-2",
+      "description": "Professional photo of a male staff member",
+      "imageUrl": "https://picsum.photos/seed/prof2/400/600",
+      "imageHint": "professional man"
+    },
+    {
+      "id": "profile-3",
+      "description": "Elegant photo of a female staff member",
+      "imageUrl": "https://picsum.photos/seed/prof3/400/600",
+      "imageHint": "elegant woman"
+    },
+    {
+      "id": "profile-4",
+      "description": "Studio photo of a female staff member",
+      "imageUrl": "https://picsum.photos/seed/prof4/400/600",
+      "imageHint": "studio portrait"
+    },
+    {
+      "id": "profile-5",
+      "description": "Candid photo of a male staff member",
+      "imageUrl": "https://picsum.photos/seed/prof5/400/600",
+      "imageHint": "candid man"
+    },
+    {
+      "id": "profile-6",
+      "description": "Outdoor photo of a female staff member",
+      "imageUrl": "https://picsum.photos/seed/prof6/400/600",
+      "imageHint": "outdoor portrait"
+    }
+  ]
+}
