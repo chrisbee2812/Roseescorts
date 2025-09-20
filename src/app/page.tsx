@@ -70,7 +70,14 @@ export default function Home() {
                     alt="Elegant setting"
                     data-ai-hint="elegant interior"
                     fill
-                    className="object-cover"
+                    className="object-cover hidden md:block"
+                />
+                <Image
+                    src="/small-p1-img2.webp"
+                    alt="Elegant setting"
+                    data-ai-hint="elegant interior"
+                    fill
+                    className="object-cover block md:hidden"
                 />
             <div className="absolute inset-0 bg-gradient-to-t from-transparent via-background/50 to-transparent" />   
             
