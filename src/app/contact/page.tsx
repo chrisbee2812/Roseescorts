@@ -74,9 +74,6 @@ export default function Home() {
                 <li className="mx-auto mb-4 max-w-3xl md:max-w-5xl text-foreground text-lg md:text-xl">
                   For security reasons, calls from private or blocked numbers are automatically rejected.
                 </li>
-                <li className="mx-auto mb-8 max-w-3xl md:max-w-5xl text-foreground text-lg md:text-xl">
-                  For couples bookings, we will only correspond with the female partner.
-                </li>
               </ul>
               <p className="mx-auto mb-4 max-w-3xl md:max-w-5xl text-foreground text-lg md:text-xl">
                   We look forward to assisting you.

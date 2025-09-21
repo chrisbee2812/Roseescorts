@@ -1,45 +1,111 @@
 {
   "placeholderImages": [
     {
-      "id": "homepage-hero",
-      "description": "Abstract background for homepage hero",
-      "imageUrl": "https://picsum.photos/seed/elite1/1920/1080",
-      "imageHint": "abstract pattern"
-    },
-    {
       "id": "profile-1",
       "description": "Professional photo of a female staff member",
-      "imageUrl": "https://picsum.photos/seed/prof1/400/600",
+      "imageUrl": "/profiles/profile1.webp",
       "imageHint": "professional woman"
     },
     {
       "id": "profile-2",
-      "description": "Professional photo of a male staff member",
-      "imageUrl": "https://picsum.photos/seed/prof2/400/600",
-      "imageHint": "professional man"
+      "description": "Professional photo of a female staff member",
+      "imageUrl": "/profiles/profile2.webp",
+      "imageHint": "professional woman"
     },
     {
       "id": "profile-3",
       "description": "Elegant photo of a female staff member",
-      "imageUrl": "https://picsum.photos/seed/prof3/400/600",
+      "imageUrl": "/profiles/profile3.webp",
       "imageHint": "elegant woman"
     },
     {
       "id": "profile-4",
       "description": "Studio photo of a female staff member",
-      "imageUrl": "https://picsum.photos/seed/prof4/400/600",
+      "imageUrl": "/profiles/profile4.webp",
       "imageHint": "studio portrait"
     },
     {
       "id": "profile-5",
-      "description": "Candid photo of a male staff member",
-      "imageUrl": "https://picsum.photos/seed/prof5/400/600",
-      "imageHint": "candid man"
+      "description": "Candid photo of a female staff member",
+      "imageUrl": "/profiles/profile5.webp",
+      "imageHint": "candid woman"
     },
     {
       "id": "profile-6",
       "description": "Outdoor photo of a female staff member",
-      "imageUrl": "https://picsum.photos/seed/prof6/400/600",
+      "imageUrl": "/profiles/profile6.webp",
+      "imageHint": "outdoor portrait"
+    },
+    {
+      "id": "profile-7",
+      "description": "Professional photo of a female staff member",
+      "imageUrl": "/profiles/profile7.webp",
+      "imageHint": "professional woman"
+    },
+    {
+      "id": "profile-8",
+      "description": "Professional photo of a female staff member",
+      "imageUrl": "/profiles/profile8.webp",
+      "imageHint": "professional woman"
+    },
+    {
+      "id": "profile-9",
+      "description": "Elegant photo of a female staff member",
+      "imageUrl": "/profiles/profile9.webp",
+      "imageHint": "elegant woman"
+    },
+    {
+      "id": "profile-10",
+      "description": "Studio photo of a female staff member",
+      "imageUrl": "/profiles/profile10.webp",
+      "imageHint": "studio portrait"
+    },
+    {
+      "id": "profile-11",
+      "description": "Candid photo of a female staff member",
+      "imageUrl": "/profiles/profile11.webp",
+      "imageHint": "candid woman"
+    },
+    {
+      "id": "profile-12",
+      "description": "Outdoor photo of a female staff member",
+      "imageUrl": "/profiles/profile12.webp",
+      "imageHint": "outdoor portrait"
+    },
+    {
+      "id": "profile-13",
+      "description": "Professional photo of a female staff member",
+      "imageUrl": "/profiles/profile13.webp",
+      "imageHint": "professional woman"
+    },
+    {
+      "id": "profile-14",
+      "description": "Professional photo of a female staff member",
+      "imageUrl": "/profiles/profile14.webp",
+      "imageHint": "professional woman"
+    },
+    {
+      "id": "profile-15",
+      "description": "Elegant photo of a female staff member",
+      "imageUrl": "/profiles/profile15.webp",
+      "imageHint": "elegant woman"
+    },
+    {
+      "id": "profile-16",
+      "description": "Studio photo of a female staff member",
+      "imageUrl": "/profiles/profile16.webp",
+      "imageHint": "studio portrait"
+    },
+    {
+      "id": "profile-17",
+      "description": "Candid photo of a female staff member",
+      "imageUrl": "/profiles/profile17.webp",
+      "imageHint": "candid woman"
+    },
+    {
+      "id": "profile-18",
+      "description": "Outdoor photo of a female staff member",
+      "imageUrl": "/profiles/profile18.webp",
       "imageHint": "outdoor portrait"
     }
   ]
