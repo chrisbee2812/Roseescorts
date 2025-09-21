@@ -1,26 +1,30 @@
 "use client";
 
 import Link from "next/link";
+import { usePathname } from "next/navigation";
 import { Menu } from "lucide-react";
 import { useState } from "react";
 import { Button } from "@/components/ui/button";
 import { Sheet, SheetContent, SheetTrigger } from "@/components/ui/sheet";
+import { cn } from "@/lib/utils";
 
 const navLinks = [
   { href: "/", label: "Home" },
-  { href: "/gallery", label: "Gallery" },
+  { href: "/bookings", label: "Bookings" },
+  { href: "/join", label: "Join Us" },
   { href: "/etiquette", label: "Etiquette" },
   { href: "/contact", label: "Contact" },
 ];
 
 export function Header() {
   const [isOpen, setIsOpen] = useState(false);
+  const pathname = usePathname();
 
   return (
     <header className="sticky top-0 z-50 w-full border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60">
       <div className="container flex h-16 items-center justify-between">
         <Link href="/" className="flex items-center gap-2">
-          <span className="font-headline text-2xl font-bold text-primary pl-32">
+          <span className="font-headline text-5xl font-bold text-primary pl-32 pt-4">
             Rose Escorts
           </span>
         </Link>
@@ -29,7 +33,10 @@ export function Header() {
             <Link
               key={link.href}
               href={link.href}
-              className="text-lg font-medium text-foreground/70 transition-colors hover:text-foreground"
+              className={cn(
+                "text-2xl font-bold text-foreground/50 transition-colors hover:text-foreground hover:underline",
+                pathname === link.href && "text-primary"
+              )}
             >
               {link.label}
             </Link>

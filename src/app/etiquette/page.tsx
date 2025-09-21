@@ -1,12 +1,22 @@
 import { Check, X } from "lucide-react";
+import Image from "next/image";
 
 export default function EtiquettePage() {
   return (
-    <div className="container mx-auto max-w-4xl px-4 py-12 md:px-6">
-      <h1 className="mb-8 font-headline text-5xl font-bold md:text-6xl">
+    <div className="relative container mx-auto max-w-4xl px-4 py-12 md:px-6">
+      <Image
+              src="/etiquette.webp"
+              alt="Elegant setting"
+              data-ai-hint="elegant interior"
+              fill
+              className="object-cover opacity-20"
+          />
+      <div className="absolute inset-0 bg-gradient-to-r from-background via-transparent to-background" />
+      <div className="relative z-10">
+        <h1 className="mb-8 font-headline text-5xl font-bold md:text-6xl text-primary">
         Client Etiquette
       </h1>
-      <div className="space-y-8 leading-relaxed text-muted-foreground">
+      <div className="space-y-8 leading-relaxed text-foreground">
         <p>
           To ensure a pleasant, respectful, and memorable experience for both our
           clients and companions, we kindly request adherence to the following
@@ -15,7 +25,8 @@ export default function EtiquettePage() {
         </p>
 
         <section>
-          <h2 className="mb-4 font-headline text-3xl font-semibold text-foreground">
+          
+          <h2 className="mb-4 font-headline text-3xl font-semibold text-primary">
             Standard of Conduct
           </h2>
           <ul className="space-y-3">
@@ -83,7 +94,7 @@ export default function EtiquettePage() {
         </section>
 
         <section>
-          <h2 className="mb-4 font-headline text-3xl font-semibold text-foreground">
+          <h2 className="mb-4 font-headline text-3xl font-semibold text-primary">
             Strictly Prohibited
           </h2>
           <ul className="space-y-3">
@@ -134,6 +145,8 @@ export default function EtiquettePage() {
           safe and respectful environment for everyone.
         </p>
       </div>
+      </div>
+      
     </div>
   );
 }
