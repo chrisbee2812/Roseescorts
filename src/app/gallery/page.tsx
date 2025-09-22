@@ -14,22 +14,22 @@ import { RadioGroup, RadioGroupItem } from "@/components/ui/radio-group";
 import { Label } from "@/components/ui/label";
 
 const profiles = [
-  { id: 1, name: "Isabella", location:"London", age:"27", imageId: "profile-1" },
-  { id: 2, name: "Yui", location:"Birmingham", age:"24", imageId: "profile-2" },
-  { id: 3, name: "Sophia", location:"Manchester", age:"23", imageId: "profile-3" },
-  { id: 4, name: "Chloe", location:"Newcastle", age:"24", imageId: "profile-4" },
-  { id: 5, name: "Aimee", location:"Manchester", age:"22", imageId: "profile-5" },
-  { id: 6, name: "Olivia", location:"London", age:"23", imageId: "profile-6" },
-  { id: 7, name: "Cherry", location:"Blackpool", age:"26", imageId: "profile-8" },
-  { id: 8, name: "Dora", location:"Glasgow", age:"25", imageId: "profile-9" },
-  { id: 9, name: "Sunny", location:"Preston", age:"23", imageId: "profile-10" },
-  { id: 10, name: "Denise", location:"Blackpool", age:"25", imageId: "profile-11" },
-  { id: 11, name: "Louise", location:"Birmingham", age:"25", imageId: "profile-12" },
-  { id: 12, name: "Cora", location:"Preston", age:"26", imageId: "profile-13" },
-  { id: 13, name: "Flora", location:"Bath", age:"24", imageId: "profile-14" },
-  { id: 14, name: "Julie", location:"Newcastle", age:"25", imageId: "profile-15" },
-  { id: 15, name: "Daisy", location:"Bath", age:"25", imageId: "profile-16" },
-  { id: 16, name: "Kate", location:"Glasgow", age:"23", imageId: "profile-7" },
+  { id: 1, name: "Isabella", location:"London", age:"27", origin:"Thailand", imageId: "profile-1" },
+  { id: 2, name: "Yui", location:"Birmingham", age:"24", origin:"Vietnam", imageId: "profile-2" },
+  { id: 3, name: "Sophia", location:"Manchester", age:"23", origin:"China", imageId: "profile-3" },
+  { id: 4, name: "Chloe", location:"Newcastle", age:"24", origin:"China", imageId: "profile-4" },
+  { id: 5, name: "Aimee", location:"Manchester", age:"22", origin:"Thailand", imageId: "profile-5" },
+  { id: 6, name: "Olivia", location:"London", age:"23", origin:"China", imageId: "profile-6" },
+  { id: 7, name: "Cherry", location:"Blackpool", age:"26", origin:"Japan", imageId: "profile-8" },
+  { id: 8, name: "Dora", location:"Glasgow", age:"25", origin:"Japan", imageId: "profile-9" },
+  { id: 9, name: "Sunny", location:"Preston", age:"23", origin:"China", imageId: "profile-10" },
+  { id: 10, name: "Denise", location:"Blackpool", age:"25", origin:"Thailand", imageId: "profile-11" },
+  { id: 11, name: "Louise", location:"Birmingham", age:"25", origin:"Japan", imageId: "profile-12" },
+  { id: 12, name: "Cora", location:"Preston", age:"26", origin:"Vietnam", imageId: "profile-13" },
+  { id: 13, name: "Flora", location:"Bath", age:"24", origin:"Vietnam", imageId: "profile-14" },
+  { id: 14, name: "Julie", location:"Newcastle", age:"25", origin:"Japan", imageId: "profile-15" },
+  { id: 15, name: "Daisy", location:"Bath", age:"25", origin:"China", imageId: "profile-16" },
+  { id: 16, name: "Kate", location:"Glasgow", age:"23", origin:"China", imageId: "profile-7" },
 ];
 
 export default function GalleryPage() {
@@ -71,7 +71,7 @@ export default function GalleryPage() {
                   </CardHeader>
                   <CardContent className="p-4">
                     <CardTitle className="font-headline text-3xl">{profile.name}</CardTitle>
-                    <CardDescription className="mt-2 font-body text-muted-foreground">{profile.location} Age:{profile.age}</CardDescription>
+                    <CardDescription className="mt-2 font-body text-muted-foreground">{profile.location} Age:{profile.age} {profile.origin}</CardDescription>
                   </CardContent>
                 </Card>
               );
