@@ -6,7 +6,7 @@ export default function TermsPage() {
       </h1>
       <div className="space-y-6 leading-relaxed text-muted-foreground">
         <p>
-          Welcome to Kapa Escort Agency. These terms and conditions outline the rules and regulations for the use of our website and services. By accessing this website, we assume you accept these terms and conditions. Do not continue to use Rose Escorts if you do not agree to all of the terms and conditions stated on this page.
+          Welcome to Kapa Escort Agency. These terms and conditions outline the rules and regulations for the use of our website and services. By accessing this website, we assume you accept these terms and conditions. Do not continue to use Kapa Escort Agency if you do not agree to all of the terms and conditions stated on this page.
         </p>
         <h2 className="pt-4 font-headline text-primary text-3xl font-semibold">1. Interpretation and Definitions</h2>
         <p>

@@ -39,7 +39,7 @@ export default function Home() {
                   Information for New Clients
               </h2>
               <p className="mx-auto mb-4 max-w-3xl md:max-w-5xl text-foreground text-lg md:text-xl">
-                  Welcome to Rose Escorts. We appreciate your interest in our services.
+                  Welcome to Kapa Escort Agency. We appreciate your interest in our services.
               </p>
               <p className="mx-auto mb-4 max-w-3xl md:max-w-5xl text-foreground text-lg md:text-xl">
                   To ensure a seamless booking experience, we kindly ask that all prospective clients review our <Link href="/bookings" className="text-primary font-bold">booking policy</Link> page prior to initiating contact.
@@ -52,7 +52,7 @@ export default function Home() {
               </h3>
               <ul className="list-disc pl-24">
                 <li className="mx-auto mb-4 max-w-3xl md:max-w-5xl text-foreground text-lg md:text-xl">
-                  Phone: 07xxx xxxxxx
+                  Phone: 07962 678899
                 </li>
                 <li className="mx-auto mb-4 max-w-3xl md:max-w-5xl text-foreground text-lg md:text-xl">
                   Hours: Monday to Friday, 10:00 AM – 9:00 PM
@@ -90,7 +90,7 @@ export default function Home() {
                   For the most efficient service, please continue to correspond with us via SMS or WhatsApp, which are monitored seven days a week.
               </p>
               <p className="mx-auto mb-4 max-w-3xl md:max-w-5xl text-foreground text-lg md:text-xl">
-                  You may also call us directly at 07xxx xxxxxx during our standard business hours (Monday-Friday, 10:00 AM – 9:00 PM).
+                  You may also call us directly at 07962 678899 during our standard business hours (Monday-Friday, 10:00 AM – 9:00 PM).
               </p>
               <p className="mx-auto mb-4 max-w-3xl md:max-w-5xl text-foreground text-lg md:text-xl">
                   We appreciate your continued patronage.
@@ -101,7 +101,7 @@ export default function Home() {
                 A Note on Communication:
               </h3>
               <p className="mx-auto mb-4 max-w-3xl md:max-w-5xl text-foreground text-lg md:text-xl">
-                  Please be advised that our email address (info@roseescorts.co.uk) is not monitored for booking inquiries. All booking requests must be submitted via SMS or WhatsApp messaging to ensure a timely response.
+                  Please be advised that our email address (info@kapaescorts.co.uk) is not monitored for booking inquiries. All booking requests must be submitted via SMS or WhatsApp messaging to ensure a timely response.
               </p>
             </div>
           </div>

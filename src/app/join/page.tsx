@@ -113,7 +113,7 @@ export default function Home() {
                   Application Process
               </h2>
               <p className="mx-auto mb-4 max-w-3xl md:max-w-5xl text-foreground text-lg md:text-xl">
-                  To be considered for representation, please submit a comprehensive email to info@roseescorts.co.uk with the following information. Incomplete applications or those that do not adhere to our photo guidelines may not receive a response.
+                  To be considered for representation, please submit a comprehensive email to info@kapaescorts.co.uk with the following information. Incomplete applications or those that do not adhere to our photo guidelines may not receive a response.
               </p>
               <h3 className="mb-4 font-headline text-3xl font-bold md:text-4xl text-primary">
                 Required Information:
