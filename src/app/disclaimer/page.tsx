@@ -6,7 +6,7 @@ export default function DisclaimerPage() {
       </h1>
       <div className="space-y-6 leading-relaxed text-muted-foreground">
         <p>
-          This website is intended for a mature audience. All individuals featured on this website are over the age of 21. Kapa Escort Agency is an introductory agency that provides companionship services for social purposes only.
+          This website is intended for a mature audience. All individuals featured on this website are over the age of 21. Kasa Escort Agency is an introductory agency that provides companionship services for social purposes only.
         </p>
         <p>
           We do not condone any activities of an illegal nature. Any such activities are strictly prohibited and are a violation of our terms of service. The agency and its models are not responsible for the personal actions of any clients.
@@ -18,7 +18,7 @@ export default function DisclaimerPage() {
           By using our services, you confirm that you have read, understood, and agree to our Terms and Conditions and this disclaimer. You agree that you will not hold the agency or any of its independent contractors liable for any reason.
         </p>
         <p>
-          Kapa Escort Agency holds the rights to all images and content on this website. Unauthorized use or reproduction of any content from this site is strictly prohibited.
+          Kasa Escort Agency holds the rights to all images and content on this website. Unauthorized use or reproduction of any content from this site is strictly prohibited.
         </p>
       </div>
     </div>

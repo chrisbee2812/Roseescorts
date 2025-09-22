@@ -39,7 +39,7 @@ export default function Home() {
                   Information for New Clients
               </h2>
               <p className="mx-auto mb-4 max-w-3xl md:max-w-5xl text-foreground text-lg md:text-xl">
-                  Welcome to Kapa Escort Agency. We appreciate your interest in our services.
+                  Welcome to Kasa Escort Agency. We appreciate your interest in our services.
               </p>
               <p className="mx-auto mb-4 max-w-3xl md:max-w-5xl text-foreground text-lg md:text-xl">
                   To ensure a seamless booking experience, we kindly ask that all prospective clients review our <Link href="/bookings" className="text-primary font-bold">booking policy</Link> page prior to initiating contact.
@@ -101,7 +101,7 @@ export default function Home() {
                 A Note on Communication:
               </h3>
               <p className="mx-auto mb-4 max-w-3xl md:max-w-5xl text-foreground text-lg md:text-xl">
-                  Please be advised that our email address (info@kapaescorts.co.uk) is not monitored for booking inquiries. All booking requests must be submitted via SMS or WhatsApp messaging to ensure a timely response.
+                  Please be advised that our email address (info@Kasaescorts.co.uk) is not monitored for booking inquiries. All booking requests must be submitted via SMS or WhatsApp messaging to ensure a timely response.
               </p>
             </div>
           </div>

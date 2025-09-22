@@ -79,7 +79,7 @@ export default function Home() {
                     Our Clientele
                 </h2>
                 <p className="mx-auto mb-4 max-w-3xl md:max-w-5xl text-foreground text-lg md:text-xl">
-                    At Kapa Escort Agency, we believe in inclusivity and discretion. Your age, body type, appearance, or background are not determining factors in our engagement. We welcome respectful adults from all walks of life.
+                    At Kasa Escort Agency, we believe in inclusivity and discretion. Your age, body type, appearance, or background are not determining factors in our engagement. We welcome respectful adults from all walks of life.
                 </p>
                 <p className="mx-auto mb-4 max-w-3xl md:max-w-5xl text-foreground text-lg md:text-xl">
                     Whether you choose to book with us frequently or on occasion, each of our clients is valued equally and provided with the same high standard of service.

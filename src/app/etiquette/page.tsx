@@ -70,7 +70,7 @@ export default function EtiquettePage() {
             <h3 className="text-xl font-bold">Service Guidelines</h3>
             <li className="flex items-start gap-4">
               <Check className="mt-1 h-5 w-5 flex-shrink-0 text-green-500" />
-              Kapa Escort Agency is a Girlfriend Experience (GFE) agency. Each companion is an independent individual, and the services she provides are based on her personal preferences and boundaries.
+              Kasa Escort Agency is a Girlfriend Experience (GFE) agency. Each companion is an independent individual, and the services she provides are based on her personal preferences and boundaries.
             </li>
             <li className="flex items-start gap-4">
               <Check className="mt-1 h-5 w-5 flex-shrink-0 text-green-500" />

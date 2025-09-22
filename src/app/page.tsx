@@ -22,7 +22,7 @@ export default function Home() {
         <div className="relative z-10 flex h-full items-center justify-center text-center">
           <div className="space-y-4">
             <h1 className="font-headline text-6xl font-bold tracking-tight text-primary drop-shadow-lg md:text-8xl lg:text-9xl">
-              Kapa Escort Agency
+              Kasa Escort Agency
             </h1>
             <p className="mx-auto max-w-2xl font-body text-lg text-foreground md:text-2xl">
               Experience unparalleled sophistication and companionship.
@@ -38,10 +38,10 @@ export default function Home() {
             <div className="grid items-center gap-12 md:grid-cols-2">
               <div>
                 <h2 className="mb-4 font-headline text-4xl font-bold md:text-5xl text-primary">
-                  Welcome to Kapa Escort Agency
+                  Welcome to Kasa Escort Agency
                 </h2>
                 <p className="mb-4 text-muted-foreground">
-                  Here at Kapa Escort Agency we take immense pride in our commitment to providing an unparalleled level of service. Our dedicated community of long-term clients is a testament to our consistent excellence and the quality of experiences we provide.
+                  Here at Kasa Escort Agency we take immense pride in our commitment to providing an unparalleled level of service. Our dedicated community of long-term clients is a testament to our consistent excellence and the quality of experiences we provide.
                 </p>
                 <p className="mb-4 text-muted-foreground">
                   I am highly selective in curating our team. Our escorts are distinguished professionals who truly stand apart. While beauty is a given, we choose ladies for their intellect, ambition, and sophisticated social skills. Each companion is a career-oriented woman with life experience, charisma, and a genuine, warm demeanor. Respect, kindness, and the right attitude are fundamental to our ethos.
@@ -56,7 +56,7 @@ export default function Home() {
                   For new clients, our booking process is thorough to ensure everyone's security and comfort. We appreciate your understanding and look forward to building a trusted relationship, making future bookings a seamless experience.
                 </p>
                 <p className="text-muted-foreground">
-                  At Kapa Escort Agency, we deeply value repeat clientele. Discretion, mutual respect, and professionalism are the cornerstones of our business, and we are committed to maintaining the highest standards in all our interactions.
+                  At Kasa Escort Agency, we deeply value repeat clientele. Discretion, mutual respect, and professionalism are the cornerstones of our business, and we are committed to maintaining the highest standards in all our interactions.
                 </p>
               </div>
               <div className="relative h-80 w-full overflow-hidden rounded-lg shadow-xl">
@@ -93,7 +93,7 @@ export default function Home() {
           <div className="relative mx-auto px-4 text-center md:px-6">
             
             <h2 className="mb-4 font-headline text-4xl font-bold md:text-5xl text-primary">
-              Work with us at Kapa Escort Agency
+              Work with us at Kasa Escort Agency
             </h2>
             <p className="mx-auto mb-6 max-w-3xl md:max-w-5xl text-foreground text-lg md:text-xl">
               Are you a sophisticated, independent woman seeking to enhance your financial independence?

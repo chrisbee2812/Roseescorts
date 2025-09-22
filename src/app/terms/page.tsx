@@ -6,7 +6,7 @@ export default function TermsPage() {
       </h1>
       <div className="space-y-6 leading-relaxed text-muted-foreground">
         <p>
-          Welcome to Kapa Escort Agency. These terms and conditions outline the rules and regulations for the use of our website and services. By accessing this website, we assume you accept these terms and conditions. Do not continue to use Kapa Escort Agency if you do not agree to all of the terms and conditions stated on this page.
+          Welcome to Kasa Escort Agency. These terms and conditions outline the rules and regulations for the use of our website and services. By accessing this website, we assume you accept these terms and conditions. Do not continue to use Kasa Escort Agency if you do not agree to all of the terms and conditions stated on this page.
         </p>
         <h2 className="pt-4 font-headline text-primary text-3xl font-semibold">1. Interpretation and Definitions</h2>
         <p>
@@ -14,7 +14,7 @@ export default function TermsPage() {
         </p>
         <h2 className="pt-4 font-headline text-primary text-3xl font-semibold">2. Services</h2>
         <p>
-          Kapa Escort Agency provides introduction and arrangement services for companionship. All companions are independent contractors and are not employees of the agency. The agency acts solely as an intermediary. All arrangements are for companionship and social engagement only. Any other activities are not condoned or arranged by the agency and are at the sole discretion and liability of the individuals involved.
+          Kasa Escort Agency provides introduction and arrangement services for companionship. All companions are independent contractors and are not employees of the agency. The agency acts solely as an intermediary. All arrangements are for companionship and social engagement only. Any other activities are not condoned or arranged by the agency and are at the sole discretion and liability of the individuals involved.
         </p>
         <h2 className="pt-4 font-headline text-primary text-3xl font-semibold">3. Booking and Cancellation</h2>
         <p>
