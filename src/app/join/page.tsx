@@ -20,7 +20,7 @@ export default function Home() {
         <div className="relative z-10 flex h-full items-center justify-center text-center">
           <div className="space-y-4">
             <h1 className="font-headline text-6xl font-bold tracking-tight text-primary drop-shadow-lg md:text-8xl lg:text-9xl">
-              Join Rose Escorts
+              Join Kapa Escort Agency
             </h1>
             <p className="mx-auto max-w-2xl font-body text-lg text-foreground md:text-2xl">
               Interested in becoming one of our companions? Please read the information below.
@@ -35,10 +35,10 @@ export default function Home() {
           <div className="container mx-auto max-w-4xl px-4 md:px-6">
             <div className="mb-16">
               <h2 className="mb-4 font-headline text-4xl font-bold md:text-5xl text-primary">
-                  Why Choose Rose Escorts?
+                  Why Choose Kapa Escort Agency?
               </h2>
               <p className="mx-auto mb-4 max-w-3xl md:max-w-5xl text-foreground text-lg md:text-xl">
-                  Rose Escorts is a friendly, professional, and female-operated agency providing discreet companionship services across England and Wales. Our exemplary reputation is built on a foundation of integrity, care, and an unwavering commitment to the well-being of the ladies we represent. This is why the finest companions choose to work with us and maintain long-term partnerships.
+                  Kapa Escort Agency is a friendly, professional, and female-operated agency providing discreet companionship services across England and Wales. Our exemplary reputation is built on a foundation of integrity, care, and an unwavering commitment to the well-being of the ladies we represent. This is why the finest companions choose to work with us and maintain long-term partnerships.
               </p>
               <p className="mx-auto mb-4 max-w-3xl md:max-w-5xl text-foreground text-lg md:text-xl">
                   Our associates are intelligent, independent women from diverse professional backgrounds—including career professionals, students, and mothers—who value discretion and autonomy. We operate with flexibility to accommodate your schedule, whether you are available one day a week or several.
@@ -56,7 +56,7 @@ export default function Home() {
                   Please note: There is no fee to join. We believe talented professionals should never have to pay to work. We stand firmly against exploitative practices and advise you to avoid any agency that requires an upfront financial commitment.
               </p>
               <p className="mx-auto mb-8 max-w-3xl md:max-w-5xl text-foreground text-lg md:text-xl">
-                  Rose Escorts commands a position of trust and respect within the industry. Our longstanding relationships with a discerning clientele ensure a safe, predictable, and professional environment for both our companions and clients.
+                  Kapa Escort Agency commands a position of trust and respect within the industry. Our longstanding relationships with a discerning clientele ensure a safe, predictable, and professional environment for both our companions and clients.
               </p>
             </div>
             <div className="mb-16">

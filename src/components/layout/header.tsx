@@ -26,7 +26,7 @@ export function Header() {
       <div className="container flex h-16 items-center justify-between">
         <Link href="/" className="flex items-center gap-2">
           <span className="font-headline text-5xl font-bold text-primary pl-32 pt-4">
-            Rose Escorts
+            Kapa Escort Agency
           </span>
         </Link>
         <nav className="hidden items-center gap-6 md:flex">
@@ -59,7 +59,7 @@ export function Header() {
                   onClick={() => setIsOpen(false)}
                 >
                   <span className="font-headline text-2xl font-bold text-primary">
-                    Rose Escorts
+                    Kapa Escort Agency
                   </span>
                 </Link>
                 <nav className="flex flex-col gap-4">

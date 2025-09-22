@@ -18,7 +18,7 @@ export default function DisclaimerPage() {
           By using our services, you confirm that you have read, understood, and agree to our Terms and Conditions and this disclaimer. You agree that you will not hold the agency or any of its independent contractors liable for any reason.
         </p>
         <p>
-          Rose Escorts holds the rights to all images and content on this website. Unauthorized use or reproduction of any content from this site is strictly prohibited.
+          Kapa Escort Agency holds the rights to all images and content on this website. Unauthorized use or reproduction of any content from this site is strictly prohibited.
         </p>
       </div>
     </div>

@@ -7,7 +7,7 @@ import { Analytics } from "@vercel/analytics/next"
 import { SpeedInsights } from "@vercel/speed-insights/next"
 
 export const metadata: Metadata = {
-  title: 'Rose Escorts',
+  title: 'Kapa Escorts Agency Limited - Premier Companionship Services',
   description: 'Premier companionship services.',
 };
 

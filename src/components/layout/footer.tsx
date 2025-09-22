@@ -5,7 +5,7 @@ export function Footer() {
     <footer className="border-t bg-background">
       <div className="container mx-auto flex flex-col items-center justify-between gap-4 px-4 py-8 sm:flex-row md:px-6">
         <p className="text-sm text-muted-foreground">
-          &copy; {new Date().getFullYear()} Rose Escorts. All rights reserved.
+          &copy; {new Date().getFullYear()} Kapa Escort Agency Ltd. All rights reserved.
         </p>
         <nav className="flex gap-4 sm:gap-6">
           <Link
