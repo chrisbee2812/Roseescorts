@@ -29,9 +29,7 @@ const profiles = [
   { id: 13, name: "Flora", imageId: "profile-14" },
   { id: 14, name: "Julie", imageId: "profile-15" },
   { id: 15, name: "Daisy", imageId: "profile-16" },
-  { id: 16, name: "Kate", imageId: "profile-17" },
-  { id: 17, name: "Ruby", imageId: "profile-7" },
-  { id: 18, name: "Sophie", imageId: "profile-18" },
+  { id: 16, name: "Kate", imageId: "profile-7" },
 ];
 
 export default function GalleryPage() {
@@ -53,7 +51,7 @@ export default function GalleryPage() {
       <div className="grid gap-8 md:grid-cols-4">
         
         <main className="md:col-span-4">
-          <div className="grid gap-8 sm:grid-cols-2 lg:grid-cols-3">
+          <div className="grid gap-8 sm:grid-cols-2 lg:grid-cols-4">
             {filteredProfiles.map((profile) => {
               const image = PlaceHolderImages.find(p => p.id === profile.imageId);
               return (

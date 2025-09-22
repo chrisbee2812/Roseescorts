@@ -95,18 +95,6 @@
       "description": "Studio photo of a female staff member",
       "imageUrl": "/profiles/profile16.webp",
       "imageHint": "studio portrait"
-    },
-    {
-      "id": "profile-17",
-      "description": "Candid photo of a female staff member",
-      "imageUrl": "/profiles/profile17.webp",
-      "imageHint": "candid woman"
-    },
-    {
-      "id": "profile-18",
-      "description": "Outdoor photo of a female staff member",
-      "imageUrl": "/profiles/profile18.webp",
-      "imageHint": "outdoor portrait"
     }
   ]
 }
