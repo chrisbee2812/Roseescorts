@@ -52,7 +52,7 @@ export default function Home() {
               </h3>
               <ul className="list-disc pl-24">
                 <li className="mx-auto mb-4 max-w-3xl md:max-w-5xl text-foreground text-lg md:text-xl">
-                  Phone: 07962 678899
+                  Phone: 07708 746683
                 </li>
                 <li className="mx-auto mb-4 max-w-3xl md:max-w-5xl text-foreground text-lg md:text-xl">
                   Hours: Monday to Friday, 10:00 AM – 9:00 PM
@@ -90,7 +90,7 @@ export default function Home() {
                   For the most efficient service, please continue to correspond with us via SMS or WhatsApp, which are monitored seven days a week.
               </p>
               <p className="mx-auto mb-4 max-w-3xl md:max-w-5xl text-foreground text-lg md:text-xl">
-                  You may also call us directly at 07962 678899 during our standard business hours (Monday-Friday, 10:00 AM – 9:00 PM).
+                  You may also call us directly at 07708 746683 during our standard business hours (Monday-Friday, 10:00 AM – 9:00 PM).
               </p>
               <p className="mx-auto mb-4 max-w-3xl md:max-w-5xl text-foreground text-lg md:text-xl">
                   We appreciate your continued patronage.
