@@ -44,6 +44,8 @@ export function Header() {
           ))}
         </nav>
         <div className="md:hidden">
+        </div>
+        <div className="md:hidden">
           <Sheet open={isOpen} onOpenChange={setIsOpen}>
             <SheetTrigger asChild>
               <Button variant="ghost" size="icon">
