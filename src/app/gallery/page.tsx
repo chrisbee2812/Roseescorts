@@ -21,7 +21,7 @@ const profiles = [
   { id: 5, name: "Aimee", location:"Manchester", age:"22", origin:"Thailand", imageId: "profile-5" },
   { id: 6, name: "Olivia", location:"London", age:"23", origin:"China", imageId: "profile-6" },
   { id: 7, name: "Cherry", location:"Blackpool", age:"26", origin:"Japan", imageId: "profile-8" },
-  { id: 8, name: "Dora", location:"Glasgow", age:"25", origin:"Japan", imageId: "profile-9" },
+  { id: 8, name: "Dora", location:"Glasgow", age:"25", origin:"China", imageId: "profile-9" },
   { id: 9, name: "Sunny", location:"Preston", age:"23", origin:"China", imageId: "profile-10" },
   { id: 10, name: "Denise", location:"Blackpool", age:"25", origin:"Thailand", imageId: "profile-11" },
   { id: 11, name: "Louise", location:"Birmingham", age:"25", origin:"Japan", imageId: "profile-12" },
@@ -44,7 +44,7 @@ export default function GalleryPage() {
       <div className="mb-12 text-center">
         <h1 className="font-headline text-primary text-5xl font-bold md:text-6xl">Our Gallery</h1>
         <p className="mt-4 text-xl text-muted-foreground">
-          Meet our exclusive selection of companions.
+          Browse our exclusive selection of independent companion profiles.
         </p>
       </div>
 

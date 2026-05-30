@@ -20,10 +20,10 @@ export default function Home() {
         <div className="relative z-10 flex h-full items-center justify-center text-center">
           <div className="space-y-4">
             <h1 className="font-headline text-6xl font-bold tracking-tight text-primary drop-shadow-lg md:text-8xl lg:text-9xl">
-              Join Kasa Escort Agency
+              List Your Profile with Kasa Escort Agency
             </h1>
             <p className="mx-auto max-w-2xl font-body text-lg text-foreground md:text-2xl">
-              Interested in becoming one of our companions? Please read the information below.
+              Interested in being featured as one of our independent companions? Please read the information below.
             </p>
             
           </div>
@@ -38,30 +38,30 @@ export default function Home() {
                   Why Choose Kasa Escort Agency?
               </h2>
               <p className="mx-auto mb-4 max-w-3xl md:max-w-5xl text-foreground text-lg md:text-xl">
-                  Kasa Escort Agency is a friendly, professional, and female-operated agency providing discreet companionship services across England and Wales. Our exemplary reputation is built on a foundation of integrity, care, and an unwavering commitment to the well-being of the ladies we represent. This is why the finest companions choose to work with us and maintain long-term partnerships.
+                  Kasa Escort Agency is a friendly, professional, and female-operated introduction platform providing discreet private introduction services across England and Wales. Our exemplary reputation is built on a foundation of integrity, care, and an unwavering commitment to the well-being of the independent companions we represent. This is why the finest companions choose to list with us and maintain long-term partnerships.
               </p>
               <p className="mx-auto mb-4 max-w-3xl md:max-w-5xl text-foreground text-lg md:text-xl">
-                  Our associates are intelligent, independent women from diverse professional backgrounds—including career professionals, students, and mothers—who value discretion and autonomy. We operate with flexibility to accommodate your schedule, whether you are available one day a week or several.
+                  Our associated independent companions are intelligent, self-directed women from diverse professional backgrounds — including career professionals, students, and mothers — who value discretion and autonomy. We operate with flexibility to accommodate your schedule, whether you are available one day a week or several.
               </p>
               <p className="mx-auto mb-4 max-w-3xl md:max-w-5xl text-foreground text-lg md:text-xl">
-                  Your safety, privacy, and well-being are our utmost priority. You will find us approachable, fair, and dedicated to fostering a secure and respectful working environment.
+                  Your safety, privacy, and well-being are our utmost priority. You will find us approachable, fair, and dedicated to fostering a secure and respectful environment for profile listing.
               </p>
               <p className="mx-auto mb-4 max-w-3xl md:max-w-5xl text-foreground text-lg md:text-xl">
-                  For those new to the industry, we offer comprehensive guidance and support to ensure your success. This includes practical advice on industry standards, financial planning, and personal safety, as well as ongoing emotional support. We are here to assist you at every step.
+                  For those new to the industry, we offer comprehensive guidance and support to ensure your success. This includes practical advice on industry standards, financial planning, and personal safety, as well as ongoing professional support. We are here to assist you at every step.
               </p>
               <p className="mx-auto mb-4 max-w-3xl md:max-w-5xl text-foreground text-lg md:text-xl">
-                  For experienced companions, whether you currently work independently or with another agency, we invite you to consider a partnership with us. You will find our commission structure to be among the most competitive in the industry, complemented by a supportive and professional network. It is a decision you won't regret.
+                  For experienced independent companions, whether you currently work independently or with another listing platform, we invite you to consider a partnership with us. You will find our commission structure to be among the most competitive in the industry, complemented by a supportive and professional network.
               </p>
               <p className="mx-auto mb-4 max-w-3xl md:max-w-5xl text-foreground text-lg md:text-xl">
-                  Please note: There is no fee to join. We believe talented professionals should never have to pay to work. We stand firmly against exploitative practices and advise you to avoid any agency that requires an upfront financial commitment.
+                  <strong>Please note:</strong> There is no fee to list your profile. We believe talented professionals should never have to pay for premium listing representation. We stand firmly against exploitative practices and advise you to avoid any platform that requires an upfront financial commitment.
               </p>
               <p className="mx-auto mb-8 max-w-3xl md:max-w-5xl text-foreground text-lg md:text-xl">
-                  Kasa Escort Agency commands a position of trust and respect within the industry. Our longstanding relationships with a discerning clientele ensure a safe, predictable, and professional environment for both our companions and clients.
+                  Kasa Escort Agency commands a position of trust and respect within the private introduction sector. Our longstanding relationships with a discerning clientele ensure a safe, predictable, and professional environment for both our listed companions and clients.
               </p>
             </div>
             <div className="mb-16">
               <h2 className="mb-4 font-headline text-4xl font-bold md:text-5xl text-primary">
-                  Join Our Team of Distinguished Companions
+                  List Your Profile with Our Distinguished Companions
               </h2>
               <p className="mx-auto mb-4 max-w-3xl md:max-w-5xl text-foreground text-lg md:text-xl">
                   Are you a poised and perceptive individual seeking a rewarding opportunity?
@@ -70,29 +70,29 @@ export default function Home() {
                   We are seeking candidates who possess intelligence, integrity, and emotional maturity. Essential qualities include impeccable manners, strong interpersonal skills, and a well-grounded, friendly personality. The ideal candidate is comfortable engaging with a diverse clientele in a relaxed and enjoyable manner.
               </p>
               <p className="mx-auto mb-4 max-w-3xl md:max-w-5xl text-foreground text-lg md:text-xl">
-                  While model-like looks are not a prerequisite, we require associates to maintain a well-proportioned and healthy physique. A genuine smile and a warm demeanor are equally important.
+                  While model-like looks are not a prerequisite, we require associates to maintain a well-proportioned and healthy physique. A genuine smile and a warm demeanour are equally important.
               </p>
               <p className="mx-auto mb-4 max-w-3xl md:max-w-5xl text-foreground text-lg md:text-xl">
                   We welcome applications from individuals from all walks of life, including single parents. A successful candidate must, however, have reliable childcare arrangements in place for evening engagements.
               </p>
               <p className="mx-auto mb-4 max-w-3xl md:max-w-5xl text-foreground text-lg md:text-xl">
-                  This role offers a significant opportunity to achieve substantial financial goals. Our associates benefit from a consistent and generous supplemental income. Many of our team members have successfully leveraged their earnings to invest in property, fund private education for their children, or launch their own business ventures.
+                  This opportunity offers a significant pathway to achieve substantial financial goals. Our associates benefit from a consistent and generous supplemental income. Many of our team members have successfully leveraged their earnings to invest in property, fund private education for their children, or launch their own business ventures
               </p>
               <p className="mx-auto mb-4 max-w-3xl md:max-w-5xl text-foreground text-lg md:text-xl">
-                  A natural affinity for people and a positive, empowered view of intimacy are fundamental to success in this role. It is important to understand that you will never be expected to participate in activities outside of your personal comfort zone. Your boundaries are respected; if certain practices are not to your preference, that is perfectly acceptable. Genuine enjoyment and personal confidence in the services you provide are the true keys to excellence.
+                  A natural affinity for people and a positive, confident outlook are fundamental to success in this profession. Your boundaries are respected at all times. Genuine enjoyment and personal confidence in the companionship you provide are the true keys to excellence in this role.
               </p>
               <p className="mx-auto mb-4 max-w-3xl md:max-w-5xl text-foreground text-lg md:text-xl">
                   This profession requires a strong work ethic and a professional approach. The role involves commitments during evening hours and travel, so dedication is essential to achieve the significant financial rewards. We seek ambitious, business-minded individuals who understand the importance of investing in their presentation, including professional photography.
               </p>
               <p className="mx-auto mb-4 max-w-3xl md:max-w-5xl text-foreground text-lg md:text-xl">
-                  Please be aware that this is a role within the adult industry. While companionship is a component, the nature of the work is inherently intimate. A positive and open-minded attitude towards this aspect of the job is essential.
+                  Please be aware that this is a role within the lifestyle companionship and private introduction sector. A positive and open-minded attitude towards this profession is essential.
               </p>
               <h3 className="mb-4 font-headline text-3xl font-bold md:text-4xl text-primary">
                 Essential Requirements:
               </h3>
               <ul className="list-disc pl-24">
                 <li className="mx-auto mb-4 max-w-3xl md:max-w-5xl text-foreground text-lg md:text-xl">
-                  You must be a minimum of 21 years of age. There is no upper age limit for candidates who maintain an good physical appearance and demeanour. Honesty regarding your age is required.
+                  You must be a minimum of 21 years of age. There is no upper age limit for candidates who maintain a good physical appearance and demeanour. Honesty regarding your age is required.
                 </li>
                 <li className="mx-auto mb-4 max-w-3xl md:max-w-5xl text-foreground text-lg md:text-xl">
                   You must possess the legal right to work in the United Kingdom.
@@ -113,7 +113,7 @@ export default function Home() {
                   Application Process
               </h2>
               <p className="mx-auto mb-4 max-w-3xl md:max-w-5xl text-foreground text-lg md:text-xl">
-                  To be considered for representation, please submit a comprehensive email to info@Kasaescorts.co.uk with the following information. Incomplete applications or those that do not adhere to our photo guidelines may not receive a response.
+                  To be considered for profile listing, please submit a comprehensive email to info@Kasaescorts.co.uk with the following information. Incomplete applications or those that do not adhere to our photo guidelines may not receive a response.
               </p>
               <h3 className="mb-4 font-headline text-3xl font-bold md:text-4xl text-primary">
                 Required Information:

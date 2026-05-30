@@ -11,7 +11,7 @@ export default function Home() {
     <>
       <section className="relative h-[60vh] w-full md:h-[80vh]">
           <Image
-            src="/hero2.webp"
+            src="/hero3.webp"
             alt="Escort lying on bed"
             data-ai-hint="escort in elegant setting"
             fill
@@ -25,7 +25,7 @@ export default function Home() {
               Kasa Escort Agency
             </h1>
             <p className="mx-auto max-w-2xl font-body text-lg text-foreground md:text-2xl">
-              Experience unparalleled sophistication and companionship.
+              Experience refined companionship and professional private introductions.
             </p>
             
           </div>
@@ -41,26 +41,26 @@ export default function Home() {
                   Welcome to Kasa Escort Agency
                 </h2>
                 <p className="mb-4 text-muted-foreground">
-                  Here at Kasa Escort Agency we take immense pride in our commitment to providing an unparalleled level of service. Our dedicated community of long-term clients is a testament to our consistent excellence and the quality of experiences we provide.
+                  Here at Kasa Escort Agency, we take immense pride in our commitment to providing an unparalleled level of service. Our dedicated community of long-term clients is a testament to our consistent excellence and the quality of introductions we facilitate.
                 </p>
                 <p className="mb-4 text-muted-foreground">
-                  I am highly selective in curating our team. Our escorts are distinguished professionals who truly stand apart. While beauty is a given, we choose ladies for their intellect, ambition, and sophisticated social skills. Each companion is a career-oriented woman with life experience, charisma, and a genuine, warm demeanor. Respect, kindness, and the right attitude are fundamental to our ethos.
+                  We are highly selective in curating our independent companion profiles. Our listed companions are distinguished professionals who truly stand apart. While poise and presentation are a given, we feature ladies for their intellect, ambition, and sophisticated social skills. Each independent profile represents a career-oriented woman with life experience, charisma, and a genuine, warm demeanor. Respect, kindness, and the right attitude are fundamental to our ethos.
                 </p>
-                <p className="mb-4 text-muted-foreground">
+                {/* <p className="mb-4 text-muted-foreground">
                   We prioritize quality over quantity. We operate within sensible hours, and our companions are available on a part-time basis. We do not offer incall services, ensuring that your time together is always exclusive and never rushed; you will never be just another appointment in her day.
+                </p> */}
+                <p className="mb-4 text-muted-foreground">
+                  As a discerning gentleman, you will appreciate our meticulous approach to safety and well-being, which is why the finest independent companions choose to list with us.
                 </p>
                 <p className="mb-4 text-muted-foreground">
-                  As a discerning gentleman, you will appreciate our meticulous approach to safety and well-being, which is why the finest companions choose to work with us.
-                </p>
-                <p className="mb-4 text-muted-foreground">
-                  For new clients, our booking process is thorough to ensure everyone's security and comfort. We appreciate your understanding and look forward to building a trusted relationship, making future bookings a seamless experience.
+                  For new clients, our booking enquiry process is thorough to ensure everyone’s security and comfort. We appreciate your understanding and look forward to building a trusted relationship, making future enquiries a seamless experience.
                 </p>
                 <p className="text-muted-foreground">
-                  At Kasa Escort Agency, we deeply value repeat clientele. Discretion, mutual respect, and professionalism are the cornerstones of our business, and we are committed to maintaining the highest standards in all our interactions.
+                  At Kasa Escort Agency, we deeply value repeat clientele. Discretion, mutual respect, and professionalism are the cornerstones of our introduction platform, and we are committed to maintaining the highest standards in all our interactions.
                 </p>
               </div>
               <div className="relative h-80 w-full overflow-hidden rounded-lg shadow-xl">
-                   <Image
+                   {/* <Image
                       src="/page1-img4.webp"
                       alt="Woman laying on bed"
                       data-ai-hint="woman in elegant setting"
@@ -69,6 +69,20 @@ export default function Home() {
                   />
                   <Image
                     src="/small-p1-img2.webp"
+                    alt="Elegant setting"
+                    data-ai-hint="elegant interior"
+                    fill
+                    className="object-cover block md:hidden"
+                /> */}
+                <Image
+                      src="/page1-img5.webp"
+                      alt="Woman laying on bed"
+                      data-ai-hint="woman in elegant setting"
+                      fill
+                      className="object-cover hidden md:block"
+                  />
+                  <Image
+                    src="/page1-img5.webp"
                     alt="Elegant setting"
                     data-ai-hint="elegant interior"
                     fill
@@ -93,16 +107,16 @@ export default function Home() {
           <div className="relative mx-auto px-4 text-center md:px-6">
             
             <h2 className="mb-4 font-headline text-4xl font-bold md:text-5xl text-primary">
-              Work with us at Kasa Escort Agency
+              List your profile with Kasa Escort Agency
             </h2>
             <p className="mx-auto mb-6 max-w-3xl md:max-w-5xl text-foreground text-lg md:text-xl">
-              Are you a sophisticated, independent woman seeking to enhance your financial independence?
+              Are you a sophisticated, independent woman seeking to enhance your financial independence through premium companion profile listings?
             </p>
             <p className="mx-auto mb-6 max-w-3xl md:max-w-5xl text-foreground text-lg md:text-xl">
-              Our associates are accomplished professionals with established careers, who value the additional income and premium engagements that this role provides.
+              Our associated independent companions are accomplished professionals with established careers, who value the additional income and premium engagements that this profile listing platform provides.
             </p>
             <p className="mx-auto mb-6 max-w-3xl md:max-w-5xl text-foreground text-lg md:text-xl">
-              If you are considering this opportunity, we invite you to connect with a premier agency dedicated to excellence, discretion, and mutual respect.
+              If you are considering this opportunity, we invite you to connect with a premier introduction agency dedicated to excellence, discretion, and mutual respect.
             </p>
             <Button asChild variant="destructive" size="lg">
               <Link href="/join">

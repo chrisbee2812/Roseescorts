@@ -5,7 +5,7 @@ export default function EtiquettePage() {
   return (
     <div className="relative container mx-auto max-w-4xl px-4 py-12 md:px-6">
       <Image
-              src="/etiquette.webp"
+              src="/etiquette2.webp"
               alt="Elegant setting"
               data-ai-hint="elegant interior"
               fill
@@ -14,14 +14,11 @@ export default function EtiquettePage() {
       <div className="absolute inset-0 bg-gradient-to-r from-background via-transparent to-background" />
       <div className="relative z-10">
         <h1 className="mb-8 font-headline text-5xl font-bold md:text-6xl text-primary">
-        Client Etiquette
-      </h1>
+          Client Etiquette and Guidelines
+        </h1>
       <div className="space-y-8 leading-relaxed text-foreground">
         <p>
-          To ensure a pleasant, respectful, and memorable experience for both our
-          clients and companions, we kindly request adherence to the following
-          etiquette guidelines. Our agency is founded on principles of mutual
-          respect, discretion, and professionalism.
+          To ensure a pleasant, respectful, and memorable private introduction for both our clients and independent companions, we kindly request adherence to the following guidelines. Our introduction platform is founded on principles of mutual respect, discretion, and professionalism.
         </p>
 
         <section>
@@ -34,13 +31,13 @@ export default function EtiquettePage() {
             <li className="flex items-start gap-4">
               <Check className="mt-1 h-5 w-5 flex-shrink-0 text-green-500" />
               <span>
-                Payment is required in full at the commencement of the booking.
+                Payment is required in full at the commencement of the private introduction.
               </span>
             </li>
             <li className="flex items-start gap-4">
               <Check className="mt-1 h-5 w-5 flex-shrink-0 text-green-500" />
               <span>
-                Should you wish to extend your date, payment for the additional time must be provided in cash at the start of the extension.
+                Should you wish to extend your introduction, payment for the additional time must be provided in cash at the start of the extension.
               </span>
             </li>
             <h3 className="text-xl font-bold">Sustenance & Refreshments</h3>
@@ -52,12 +49,12 @@ export default function EtiquettePage() {
             </li>
             <li className="flex items-start gap-4">
               <Check className="mt-1 h-5 w-5 flex-shrink-0 text-green-500" />
-              For bookings of four hours or longer, provisions for a meal are required.
+              For introductions of four hours or longer, provisions for a meal are required.
             </li>
             <h3 className="text-xl font-bold">Parking & Transportation</h3>
             <li className="flex items-start gap-4">
               <Check className="mt-1 h-5 w-5 flex-shrink-0 text-green-500" />
-              When booking a hotel, we strongly prefer and recommend selecting a venue with on-site parking for your companion's convenience.
+              When booking a venue, we strongly prefer and recommend selecting a venue with on-site parking for your companion's convenience.
             </li>
             <li className="flex items-start gap-4">
               <Check className="mt-1 h-5 w-5 flex-shrink-0 text-green-500" />
@@ -65,18 +62,18 @@ export default function EtiquettePage() {
             </li>
             <li className="flex items-start gap-4">
               <Check className="mt-1 h-5 w-5 flex-shrink-0 text-green-500" />
-              In the event our lady must park at a remote location, we require you to escort her safely to her vehicle at the conclusion of your date.
+              In the event our listed companion must park at a remote location, we require you to escort her safely to her vehicle at the conclusion of your introduction.
             </li>
             <h3 className="text-xl font-bold">Service Guidelines</h3>
             <li className="flex items-start gap-4">
               <Check className="mt-1 h-5 w-5 flex-shrink-0 text-green-500" />
-              Kasa Escort Agency is a Girlfriend Experience (GFE) agency. Each companion is an independent individual, and the services she provides are based on her personal preferences and boundaries.
+              Kasa Escort Agency is a lifestyle companionship and private introduction platform. Each independent companion is an individual, and the nature of her companionship is based on her personal preferences and boundaries.
             </li>
             <li className="flex items-start gap-4">
               <Check className="mt-1 h-5 w-5 flex-shrink-0 text-green-500" />
-              Our companions are open-minded and accommodating. We welcome discussions about lingerie preferences and fantasies to ensure a mutually enjoyable experience.
+              Our listed companions are welcoming and accommodating. We welcome discussions about preferences to ensure a mutually enjoyable experience.
             </li>
-            <h3 className="text-xl font-bold">Overnight Bookings</h3>
+            {/* <h3 className="text-xl font-bold">Overnight Bookings</h3>
             <li className="flex items-start gap-4">
               <Check className="mt-1 h-5 w-5 flex-shrink-0 text-green-500" />
               Overnight engagements must include provisions for both dinner and breakfast.
@@ -84,7 +81,7 @@ export default function EtiquettePage() {
             <li className="flex items-start gap-4">
               <Check className="mt-1 h-5 w-5 flex-shrink-0 text-green-500" />
               To ensure her well-being, your companion requires a minimum of five uninterrupted hours of sleep.
-            </li>
+            </li> */}
             <h3 className="text-xl font-bold">Hygiene</h3>
             <li className="flex items-start gap-4">
               <Check className="mt-1 h-5 w-5 flex-shrink-0 text-green-500" />
@@ -110,7 +107,7 @@ export default function EtiquettePage() {
             <li className="flex items-start gap-4">
               <X className="mt-1 h-5 w-5 flex-shrink-0 text-destructive" />
               <span>
-                <strong>Unprotected Services:</strong> Any request for unprotected sex will result in immediate blacklisting from our agency. Any attempt to remove a condom without consent will be treated as sexual assault and reported to the authorities.
+                <strong>Health and Safety Violations:</strong> Any request that compromises health and safety standards will result in immediate removal from our client register. Any attempt to breach agreed boundaries will be treated as a serious matter and may be reported to the relevant authorities.
               </span>
             </li> 
             <li className="flex items-start gap-4">

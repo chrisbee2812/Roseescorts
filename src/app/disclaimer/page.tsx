@@ -6,16 +6,16 @@ export default function DisclaimerPage() {
       </h1>
       <div className="space-y-6 leading-relaxed text-muted-foreground">
         <p>
-          This website is intended for a mature audience. All individuals featured on this website are over the age of 21. Kasa Escort Agency is an introductory agency that provides companionship services for social purposes only.
+          This website is intended for a mature audience. All individuals featured on this website are over the age of 21. Kasa Escort Agency is a private introduction and profile listing platform that facilitates companionship and introductions for social engagement only.
         </p>
         <p>
-          We do not condone any activities of an illegal nature. Any such activities are strictly prohibited and are a violation of our terms of service. The agency and its models are not responsible for the personal actions of any clients.
+          We do not condone any activities of an illegal nature. Any such activities are strictly prohibited and are a violation of our terms of service. The company and its listed independent companions are not responsible for the personal actions of any clients.
         </p>
         <p>
-          The information contained on this website is for general information purposes only. While we endeavor to keep the information up to date and correct, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability, or availability with respect to the website or the information, products, services, or related graphics contained on the website for any purpose. Any reliance you place on such information is therefore strictly at your own risk.
+          The information contained on this website is for general information purposes only. While we endeavour to keep the information up to date and correct, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability, or availability with respect to the website or the information, products, services, or related graphics contained on the website for any purpose. Any reliance you place on such information is therefore strictly at your own risk.
         </p>
         <p>
-          By using our services, you confirm that you have read, understood, and agree to our Terms and Conditions and this disclaimer. You agree that you will not hold the agency or any of its independent contractors liable for any reason.
+          By using our services, you confirm that you have read, understood, and agree to our Terms and Conditions and this disclaimer. You agree that you will not hold the company or any of its independent contractors liable for any reason.
         </p>
         <p>
           Kasa Escort Agency holds the rights to all images and content on this website. Unauthorized use or reproduction of any content from this site is strictly prohibited.

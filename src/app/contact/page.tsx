@@ -10,7 +10,7 @@ export default function Home() {
     <>
       <section className="relative h-[40vh] w-full md:h-[60vh]">
           <Image
-            src="/contact-banner.webp"
+            src="/contact-banner2.webp"
             alt="Escort lying on bed"
             data-ai-hint="escort in elegant setting"
             fill
@@ -21,10 +21,10 @@ export default function Home() {
         <div className="relative z-10 flex h-full items-center justify-center text-center">
           <div className="space-y-4">
             <h1 className="font-headline text-6xl font-bold tracking-tight text-primary drop-shadow-lg md:text-8xl lg:text-9xl">
-              Discreet Inquiries
+              Discreet Enquiries
             </h1>
             <p className="mx-auto max-w-2xl font-body text-lg text-foreground md:text-2xl">
-              We specialize in confidential and sophisticated companionship. To discuss booking, please send us a message.
+              We specialise in confidential and sophisticated private introductions. To discuss a booking enquiry, please send us a message.
             </p>
             
           </div>
@@ -55,7 +55,7 @@ export default function Home() {
                   Phone: 07708 746683
                 </li>
                 <li className="mx-auto mb-4 max-w-3xl md:max-w-5xl text-foreground text-lg md:text-xl">
-                  Hours: Monday to Friday, 10:00 AM – 9:00 PM
+                  Hours: Monday to Friday, 10:00 AM – 12:00 AM
                 </li>
               </ul>
               <h3 className="mb-4 font-headline text-3xl font-bold md:text-4xl text-primary">
@@ -90,7 +90,7 @@ export default function Home() {
                   For the most efficient service, please continue to correspond with us via SMS or WhatsApp, which are monitored seven days a week.
               </p>
               <p className="mx-auto mb-4 max-w-3xl md:max-w-5xl text-foreground text-lg md:text-xl">
-                  You may also call us directly at 07708 746683 during our standard business hours (Monday-Friday, 10:00 AM – 9:00 PM).
+                  You may also call us directly at 07708 746683 during our standard business hours (Monday-Friday, 10:00 AM – 12:00 PM).
               </p>
               <p className="mx-auto mb-4 max-w-3xl md:max-w-5xl text-foreground text-lg md:text-xl">
                   We appreciate your continued patronage.

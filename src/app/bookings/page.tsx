@@ -22,10 +22,10 @@ export default function Home() {
         <div className="relative z-10 flex h-full items-center justify-center text-center">
           <div className="space-y-4">
             <h1 className="font-headline text-6xl font-bold tracking-tight text-primary drop-shadow-lg md:text-8xl lg:text-9xl">
-              Arrange a Date
+              Arrange a Private Introduction
             </h1>
             <p className="mx-auto max-w-2xl font-body text-lg text-foreground md:text-2xl">
-              Please ensure you read all of the information available on this page, prior to contacting us.
+              Please ensure you read all of the information available on this page prior to contacting us.
             </p>
             
           </div>
@@ -41,7 +41,7 @@ export default function Home() {
                   Important Information
                 </h2>
                 <p className="mx-auto mb-8 max-w-2xl font-body text-lg text-foreground md:text-xl">
-                    If this is your first time booking with us or you would like a reminder, please visit each page and read the contained information.
+                    If this is your first time making a booking enquiry with us, or you would like a reminder, please visit each page and read the contained information.
                 </p>
                 <div className="grid gap-6 grid-cols-2">
                     <p className="mb-4 text-muted-foreground text-2xl">
@@ -82,16 +82,16 @@ export default function Home() {
                     At Kasa Escort Agency, we believe in inclusivity and discretion. Your age, body type, appearance, or background are not determining factors in our engagement. We welcome respectful adults from all walks of life.
                 </p>
                 <p className="mx-auto mb-4 max-w-3xl md:max-w-5xl text-foreground text-lg md:text-xl">
-                    Whether you choose to book with us frequently or on occasion, each of our clients is valued equally and provided with the same high standard of service.
+                    Whether you choose to submit a booking enquiry with us frequently or on occasion, each of our clients is valued equally and provided with the same high standard of introduction service.
                 </p>
                 <p className="mx-auto mb-4 max-w-3xl md:max-w-5xl text-foreground text-lg md:text-xl">
-                    There are, however, three non-negotiable qualities we require of every customer: <strong>impeccable hygiene</strong>, <strong>utmost respect</strong>, and <strong>inherent kindness</strong>. These qualities are paramount to ensuring a mutually enjoyable and dignified experience.
+                    There are, however, three non-negotiable qualities we require of every client: <strong>impeccable hygiene</strong>, <strong>utmost respect</strong>, and <strong>inherent kindness</strong>. These qualities are paramount to ensuring a mutually enjoyable and dignified introduction.
                 </p>
                 <p className="mx-auto mb-4 max-w-3xl md:max-w-5xl text-foreground text-lg md:text-xl">
-                    We expect all clients to be freshly showered, with clean teeth, well-groomed nails, and neat facial hair. Please arrive in freshly laundered clothing. Your companion takes great care in her presentation, and we ask that you extend the same courtesy.
+                    We expect all clients to be freshly showered, with clean teeth, well-groomed nails, and neat facial hair. Please arrive in freshly laundered clothing. Your chosen companion takes great care in her presentation, and we ask that you extend the same courtesy.
                 </p>
                 <p className="mx-auto mb-4 max-w-3xl md:max-w-5xl text-foreground text-lg md:text-xl">
-                    This standard of cleanliness extends to your environment. Whether we are visiting a hotel or a private residence, we require the space to be tidy and hygienic. Particular attention should be paid to the bedroom area, ensuring linens are fresh and clean.
+                    This standard of cleanliness extends to your environment. Whether we are facilitating an introduction at a hotel or a private residence, we require the space to be tidy and hygienic. This is not only a matter of respect but also essential for the comfort and well-being of both parties. We reserve the right to cancel any booking if the environment does not meet these standards, as we prioritize the safety and satisfaction of our companions above all else.
                 </p>
                 <p className="mx-auto mb-4 max-w-3xl md:max-w-5xl text-foreground text-lg md:text-xl">
                     If you are an individual who values discretion, respect, and excellence, we invite you to learn more about our companions on our contact page.
@@ -115,23 +115,23 @@ export default function Home() {
           <div className="relative mx-auto px-4 text-center md:px-6">
             
             <h2 className="mb-4 font-headline text-4xl font-bold md:text-5xl text-primary">
-              Ready to book a date?
+              Ready to make a booking enquiry?
             </h2>
             <p className="mx-auto mb-6 max-w-3xl md:max-w-5xl text-foreground text-lg md:text-xl">
-              To initiate a booking, please send a detailed text or WhatsApp message with the following information:
+              To initiate a booking enquiry, please send a detailed text or WhatsApp message with the following information:
             </p>
             <ul className="mb-6">
                 <li className="mb-2 text-foreground text-lg md:text-xl">Your full name (for verification purposes)</li>
                 <li className="mb-2 text-foreground text-lg md:text-xl">The location details (hotel or residential address)</li>
-                <li className="mb-2 text-foreground text-lg md:text-xl">The date and time you wish to book</li>
-                <li className="mb-2 text-foreground text-lg md:text-xl">The duration of the booking</li>
-                <li className="mb-2 text-foreground text-lg md:text-xl">Any specific requests or preferences you may have</li>
+                <li className="mb-2 text-foreground text-lg md:text-xl">The date and time you wish for an arranged introduction</li>
+                <li className="mb-2 text-foreground text-lg md:text-xl">The duration of the introduction</li>
+                <li className="mb-2 text-foreground text-lg md:text-xl">Any specific preferences or requests you may have</li>
             </ul>
             <p className="mx-auto mb-6 max-w-3xl md:max-w-5xl text-foreground text-lg md:text-xl">
-              To ensure the highest standards of safety and service, we require complete transparency. Providing your full name is essential for confirmation. A deposit may be required to secure your booking, and we may request verification of identification or residency.
+              To ensure the highest standards of safety and service, we require complete transparency. Providing your full name is essential for confirmation. A deposit may be required to secure your booking enquiry, and we may request verification of identification or residency.
             </p>
             <p className="mx-auto mb-6 max-w-3xl md:max-w-5xl text-foreground text-lg md:text-xl">
-              Please note that our screening protocols are in place for the safety and comfort of all parties. We are unable to process inquiries that do not include the necessary information.
+              Please note that our screening protocols are in place for the safety and comfort of all parties. We are unable to process enquiries that do not include the necessary information.
             </p>
             <Button asChild variant="destructive" size="lg">
               <Link href="/contact">
