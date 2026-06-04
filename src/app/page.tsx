@@ -162,9 +162,9 @@ export default function Home() {
             </Dialog.Title>
             
             <Dialog.Description className="text-gray-700 mb-6 leading-relaxed">
-              This is a preview site for <span className="font-semibold">Kasa Escort Agency</span>.
+              This is a preview of a new website for <span className="font-semibold">Kasa Escort Agency</span>.
               <br />
-              For the live site please visit:
+              For the current live site please visit:
               <br />
               <a 
                 href="https://www.kasaescorts.co.uk" 
