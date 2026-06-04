@@ -12,7 +12,7 @@ const navLinks = [
   { href: "/", label: "Home" },
   { href: "/bookings", label: "Bookings" },
   { href: "/gallery", label: "Gallery" },
-  { href: "/join", label: "Join Us" },
+  // { href: "/join", label: "Join Us" },
   { href: "/etiquette", label: "Etiquette" },
   { href: "/contact", label: "Contact" },
 ];
@@ -26,7 +26,7 @@ export function Header() {
       <div className="container flex h-16 items-center justify-between">
         <Link href="/" className="flex items-center gap-2">
           <span className="font-headline text-2xl md:text-5xl font-bold text-primary pl-32 pt-2">
-            Kasa Escort Agency
+            Kasa
           </span>
         </Link>
         <nav className="hidden items-center gap-6 md:flex">

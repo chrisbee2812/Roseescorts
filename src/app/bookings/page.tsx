@@ -76,6 +76,23 @@ export default function Home() {
               </div>
               <div>
                 <h2 className="mb-4 font-headline text-4xl font-bold md:text-5xl text-primary">
+                    Booking Enquiries
+                </h2>
+                <p className="mx-auto mb-4 max-w-3xl md:max-w-5xl text-foreground text-lg md:text-xl">
+                    To submit an enquiry, please contact us with:
+                </p>
+                <ul className="mb-6 list-disc pl-6">
+                    <li className="mb-2 text-foreground text-lg md:text-xl">Your full name</li>
+                    <li className="mb-2 text-foreground text-lg md:text-xl">The location details</li>
+                    <li className="mb-2 text-foreground text-lg md:text-xl">Your preferred date and time for the introduction</li>
+                    <li className="mb-2 text-foreground text-lg md:text-xl">The profile you are interested in</li>
+                    <li className="mb-2 text-foreground text-lg md:text-xl">Any specific preferences or requests you may have</li>
+                </ul>
+                <p className="mx-auto mb-4 max-w-3xl md:max-w-5xl text-foreground text-lg md:text-xl">
+                  Availability is subject to confirmation. Independent providers manage their own schedules and may not be available at all times.
+                </p>
+
+                {/* <h2 className="mb-4 font-headline text-4xl font-bold md:text-5xl text-primary">
                     Our Clientele
                 </h2>
                 <p className="mx-auto mb-4 max-w-3xl md:max-w-5xl text-foreground text-lg md:text-xl">
@@ -95,13 +112,13 @@ export default function Home() {
                 </p>
                 <p className="mx-auto mb-4 max-w-3xl md:max-w-5xl text-foreground text-lg md:text-xl">
                     If you are an individual who values discretion, respect, and excellence, we invite you to learn more about our companions on our contact page.
-                </p>
+                </p> */}
               </div>
             </div>
           </div>
         </section>
 
-        <section className="relative py-16 md:py-24">
+        {/*<section className="relative py-16 md:py-24">
                 <Image
                     src="/page1-img2.webp"
                     alt="Elegant setting"
@@ -112,7 +129,7 @@ export default function Home() {
                 
             <div className="absolute inset-0 bg-gradient-to-t from-transparent via-background/50 to-transparent" />   
             
-          <div className="relative mx-auto px-4 text-center md:px-6">
+           <div className="relative mx-auto px-4 text-center md:px-6">
             
             <h2 className="mb-4 font-headline text-4xl font-bold md:text-5xl text-primary">
               Ready to make a booking enquiry?
@@ -141,7 +158,7 @@ export default function Home() {
             
           </div>
           
-        </section>
+        </section> */}
       </div>
     </>
   );

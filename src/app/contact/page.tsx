@@ -8,15 +8,15 @@ const heroImage = PlaceHolderImages.find(p => p.id === "homepage-hero");
 export default function Home() {
   return (
     <>
-      <section className="relative h-[40vh] w-full md:h-[60vh]">
-          <Image
+      <section className="relative h-[20vh] w-full md:h-[40vh]">
+          {/* <Image
             src="/contact-banner2.webp"
             alt="Escort lying on bed"
             data-ai-hint="escort in elegant setting"
             fill
             className="object-cover"
             priority
-          />
+          /> */}
         <div className="absolute inset-0 bg-gradient-to-t from-background via-background/50 to-transparent" />
         <div className="relative z-10 flex h-full items-center justify-center text-center">
           <div className="space-y-4">
@@ -39,7 +39,7 @@ export default function Home() {
                   Information for New Clients
               </h2>
               <p className="mx-auto mb-4 max-w-3xl md:max-w-5xl text-foreground text-lg md:text-xl">
-                  Welcome to Kasa Escort Agency. We appreciate your interest in our services.
+                  Welcome to Kasa. We appreciate your interest in our services.
               </p>
               <p className="mx-auto mb-4 max-w-3xl md:max-w-5xl text-foreground text-lg md:text-xl">
                   To ensure a seamless booking experience, we kindly ask that all prospective clients review our <Link href="/bookings" className="text-primary font-bold">booking policy</Link> page prior to initiating contact.

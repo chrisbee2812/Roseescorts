@@ -1,4 +1,4 @@
-import { Check, X } from "lucide-react";
+import { Check, X, CircleArrowRightIcon } from "lucide-react";
 import Image from "next/image";
 
 export default function EtiquettePage() {
@@ -18,12 +18,12 @@ export default function EtiquettePage() {
         </h1>
       <div className="space-y-8 leading-relaxed text-foreground">
         <p>
-          To ensure a pleasant, respectful, and memorable private introduction for both our clients and independent companions, we kindly request adherence to the following guidelines. Our introduction platform is founded on principles of mutual respect, discretion, and professionalism.
+          To ensure a professional, respectful and positive experience for everyone, we kindly ask all users to follow the guidelines below.
         </p>
 
         <section>
           
-          <h2 className="mb-4 font-headline text-3xl font-semibold text-primary">
+          {/* <h2 className="mb-4 font-headline text-3xl font-semibold text-primary">
             Standard of Conduct
           </h2>
           <ul className="space-y-3">
@@ -73,7 +73,7 @@ export default function EtiquettePage() {
               <Check className="mt-1 h-5 w-5 flex-shrink-0 text-green-500" />
               Our listed companions are welcoming and accommodating. We welcome discussions about preferences to ensure a mutually enjoyable experience.
             </li>
-            {/* <h3 className="text-xl font-bold">Overnight Bookings</h3>
+            <h3 className="text-xl font-bold">Overnight Bookings</h3>
             <li className="flex items-start gap-4">
               <Check className="mt-1 h-5 w-5 flex-shrink-0 text-green-500" />
               Overnight engagements must include provisions for both dinner and breakfast.
@@ -81,16 +81,120 @@ export default function EtiquettePage() {
             <li className="flex items-start gap-4">
               <Check className="mt-1 h-5 w-5 flex-shrink-0 text-green-500" />
               To ensure her well-being, your companion requires a minimum of five uninterrupted hours of sleep.
-            </li> */}
+            </li>
             <h3 className="text-xl font-bold">Hygiene</h3>
             <li className="flex items-start gap-4">
               <Check className="mt-1 h-5 w-5 flex-shrink-0 text-green-500" />
               Your companion will arrive impeccably groomed and refreshed. We expect all clients to uphold the same standard of personal hygiene.
             </li>
+          </ul> */}
+          <ul className="space-y-3">
+            <h3 className="text-xl font-bold">Professional Conduct</h3>
+            <li className="flex items-start gap-4">
+              <CircleArrowRightIcon className="mt-1 h-5 w-5 flex-shrink-0 text-green-500" />
+              <span>
+                Treat all individuals with courtesy and respect.
+              </span>
+            </li>
+            <li className="flex items-start gap-4">
+              <CircleArrowRightIcon className="mt-1 h-5 w-5 flex-shrink-0 text-green-500" />
+              <span>
+                Communicate clearly and professionally.
+              </span>
+            </li>
+            <li className="flex items-start gap-4">
+              <CircleArrowRightIcon className="mt-1 h-5 w-5 flex-shrink-0 text-green-500" />
+              <span>
+                Respect personal boundaries at all times.
+              </span>
+            </li>
+          <h3 className="text-xl font-bold">Privacy & Confidentiality</h3>
+            <li className="flex items-start gap-4">
+              <CircleArrowRightIcon className="mt-1 h-5 w-5 flex-shrink-0 text-green-500" />
+              <span>
+                Personal information should remain confidential.
+              </span>
+            </li>
+            <li className="flex items-start gap-4">
+              <CircleArrowRightIcon className="mt-1 h-5 w-5 flex-shrink-0 text-green-500" />
+              <span>
+                Users should not share private details without permission.
+              </span>
+            </li>
+            <li className="flex items-start gap-4">
+              <CircleArrowRightIcon className="mt-1 h-5 w-5 flex-shrink-0 text-green-500" />
+              <span>
+                Discretion is expected from all parties.
+              </span>
+            </li>
+            <h3 className="text-xl font-bold">Booking Etiquette</h3>
+            <li className="flex items-start gap-4">
+              <CircleArrowRightIcon className="mt-1 h-5 w-5 flex-shrink-0 text-green-500" />
+              <span>
+                Please provide accurate information when making an enquiry.
+              </span>
+            </li>
+            <li className="flex items-start gap-4">
+              <CircleArrowRightIcon className="mt-1 h-5 w-5 flex-shrink-0 text-green-500" />
+              <span>
+                Notify us as early as possible if arrangements change.
+              </span>
+            </li>
+            <li className="flex items-start gap-4">
+              <CircleArrowRightIcon className="mt-1 h-5 w-5 flex-shrink-0 text-green-500" />
+              <span>
+                Availability is subject to confirmation.
+              </span>
+            </li>
+            <h3 className="text-xl font-bold">Safety & Legal Compliance</h3>
+            <li className="flex items-start gap-4">
+              <CircleArrowRightIcon className="mt-1 h-5 w-5 flex-shrink-0 text-green-500" />
+              <span>
+                All users must comply with applicable laws and regulations.
+              </span>
+            </li>
+            <li className="flex items-start gap-4">
+              <CircleArrowRightIcon className="mt-1 h-5 w-5 flex-shrink-0 text-green-500" />
+              <span>
+                Illegal activities are strictly prohibited.
+              </span>
+            </li>
+            <li className="flex items-start gap-4">
+              <CircleArrowRightIcon className="mt-1 h-5 w-5 flex-shrink-0 text-green-500" />
+              <span>
+                Any inappropriate behaviour may result in refusal of service.
+              </span>
+            </li>
+            <h3 className="text-xl font-bold">Photography & Recording</h3>
+            <li className="flex items-start gap-4">
+              <CircleArrowRightIcon className="mt-1 h-5 w-5 flex-shrink-0 text-green-500" />
+              <span>
+                Photos, videos, or recordings may not be taken without prior consent.
+              </span>
+            </li>
+            <li className="flex items-start gap-4">
+              <CircleArrowRightIcon className="mt-1 h-5 w-5 flex-shrink-0 text-green-500" />
+              <span>
+                Privacy should always be respected.
+              </span>
+            </li>
+            <h3 className="text-xl font-bold">Respectful Communication</h3>
+            <li className="flex items-start gap-4">
+              <CircleArrowRightIcon className="mt-1 h-5 w-5 flex-shrink-0 text-green-500" />
+              <span>
+                Harassment, threats, abusive language, or discriminatory behaviour will not be tolerated.
+              </span>
+            </li>
+            <li className="flex items-start gap-4">
+              <CircleArrowRightIcon className="mt-1 h-5 w-5 flex-shrink-0 text-green-500" />
+              <span>
+                We reserve the right to decline future enquiries where these standards are not met.
+              </span>
+            </li>
           </ul>
         </section>
 
-        <section>
+        {/* <section>
           <h2 className="mb-4 font-headline text-3xl font-semibold text-primary">
             Strictly Prohibited
           </h2>
@@ -133,14 +237,14 @@ export default function EtiquettePage() {
               </span>
             </li>
           </ul>
-        </section>
+        </section> */}
 
-        <p>
+        {/* <p>
           Failure to adhere to these guidelines may result in the immediate
           termination of the engagement without a refund and a permanent ban
           from our services. We appreciate your cooperation in maintaining a
           safe and respectful environment for everyone.
-        </p>
+        </p> */}
       </div>
       </div>
       

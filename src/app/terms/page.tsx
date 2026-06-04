@@ -6,7 +6,7 @@ export default function TermsPage() {
       </h1>
       <div className="space-y-6 leading-relaxed text-muted-foreground">
         <p>
-          Welcome to Kasa Escort Agency. These terms and conditions outline the rules and regulations for the use of our website and introduction services. By accessing this website, we assume you accept these terms and conditions. Do not continue to use Kasa Escort Agency if you do not agree to all of the terms and conditions stated on this page.
+          Welcome to Kasa. These terms and conditions outline the rules and regulations for the use of our website and introduction services. By accessing this website, we assume you accept these terms and conditions. Do not continue to use Kasa if you do not agree to all of the terms and conditions stated on this page.
         </p>
         <h2 className="pt-4 font-headline text-primary text-3xl font-semibold">1. Interpretation and Definitions</h2>
         <p>
@@ -14,11 +14,14 @@ export default function TermsPage() {
         </p>
         <h2 className="pt-4 font-headline text-primary text-3xl font-semibold">2. Services</h2>
         <p>
-          Kasa Escort Agency provides private introduction and profile listing services for companionship and social engagement. All listed companions are independent contractors and are not employees of the company. The company acts solely as an intermediary introduction platform. All private introductions are for companionship and social engagement only.
+          Kasa provides private introduction and profile listing services for companionship and social engagement. All listed companions are independent contractors and are not employees of the company. The company acts solely as an intermediary introduction platform. All private introductions are for companionship and social engagement only.
         </p>
         <h2 className="pt-4 font-headline text-primary text-3xl font-semibold">3. Booking and Cancellation</h2>
         <p>
-          Booking enquiries must be made in advance through our official contact channels. A deposit may be required to secure a private introduction. Cancellations must be made at least 48 hours in advance to be eligible for a refund of the deposit. Cancellations made with less than 48 hours' notice will result in forfeiture of the deposit.
+          All enquiries should be submitted through our official contact channels in advance. Availability and arrangements may vary depending on the independent provider selected.
+        </p>
+        <p>
+          If an introduction or appointment needs to be cancelled or rescheduled, we kindly request reasonable notice whenever possible. Any applicable arrangements will be communicated at the time of confirmation.
         </p>
         <h2 className="pt-4 font-headline text-primary text-3xl font-semibold">4. Code of Conduct</h2>
         <p>
