@@ -24,7 +24,7 @@ export default function Home() {
               Discreet Enquiries
             </h1>
             <p className="mx-auto max-w-2xl font-body text-lg text-foreground md:text-2xl">
-              We specialise in confidential and sophisticated private introductions. To discuss a booking enquiry, please send us a message.
+              We provide profile listing, advertising visibility and enquiry management services. Please contact us by email or WhatsApp for enquiries.
             </p>
             
           </div>
@@ -42,10 +42,10 @@ export default function Home() {
                   Welcome to Kasa. We appreciate your interest in our services.
               </p>
               <p className="mx-auto mb-4 max-w-3xl md:max-w-5xl text-foreground text-lg md:text-xl">
-                  We provide profile listing, advertising visibility and enquiry management services.
+                  To ensure a seamless booking experience, we kindly ask that all prospective clients review our <Link href="/bookings" className="text-primary font-bold">booking policy</Link> page prior to initiating contact.
               </p>
               <p className="mx-auto mb-8 max-w-3xl md:max-w-5xl text-foreground text-lg md:text-xl">
-                  Please contact us by email or WhatsApp for all enquiries.
+                  All booking requests must be submitted via SMS or WhatsApp messaging to ensure a timely response.
               </p>
               <h3 className="mb-4 font-headline text-3xl font-bold md:text-4xl text-primary">
                 Contact Information:
