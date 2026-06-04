@@ -110,14 +110,14 @@ export default function Home() {
                       className="object-cover block md:hidden"
                   /> */}
                   <Image
-                        src="/page1-img5.webp"
+                        src="/page1-img6.webp"
                         alt="Woman laying on bed"
                         data-ai-hint="woman in elegant setting"
                         fill
                         className="object-cover hidden md:block"
                     />
                     <Image
-                      src="/page1-img5.webp"
+                      src="/page1-img6.webp"
                       alt="Elegant setting"
                       data-ai-hint="elegant interior"
                       fill

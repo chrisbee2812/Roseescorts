@@ -35,7 +35,7 @@ export default function Home() {
         <section className="py-8 md:py-12">
           <div className="container mx-auto max-w-4xl px-4 md:px-6">
             <div className="mb-16">
-              <h2 className="mb-4 font-headline text-4xl font-bold md:text-5xl text-primary">
+              <h2 className="mb-8 font-headline text-4xl font-bold md:text-5xl text-primary">
                   Information for New Clients
               </h2>
               <p className="mx-auto mb-4 max-w-3xl md:max-w-5xl text-foreground text-lg md:text-xl">
@@ -44,7 +44,7 @@ export default function Home() {
               <p className="mx-auto mb-4 max-w-3xl md:max-w-5xl text-foreground text-lg md:text-xl">
                   To ensure a seamless booking experience, we kindly ask that all prospective clients review our <Link href="/bookings" className="text-primary font-bold">booking policy</Link> page prior to initiating contact.
               </p>
-              <p className="mx-auto mb-4 max-w-3xl md:max-w-5xl text-foreground text-lg md:text-xl">
+              <p className="mx-auto mb-8 max-w-3xl md:max-w-5xl text-foreground text-lg md:text-xl">
                   All booking requests must be submitted via SMS or WhatsApp messaging to ensure a timely response.
               </p>
               <h3 className="mb-4 font-headline text-3xl font-bold md:text-4xl text-primary">
@@ -52,13 +52,17 @@ export default function Home() {
               </h3>
               <ul className="list-disc pl-24">
                 <li className="mx-auto mb-4 max-w-3xl md:max-w-5xl text-foreground text-lg md:text-xl">
-                  Phone: 07708 746683
+                  Email: info@kasaescorts.co.uk
                 </li>
                 <li className="mx-auto mb-4 max-w-3xl md:max-w-5xl text-foreground text-lg md:text-xl">
-                  Hours: Monday to Friday, 10:00 AM – 12:00 AM
+                  WhatsApp: +44 7708 746683
+                </li>
+                <li className="mx-auto mb-4 max-w-3xl md:max-w-5xl text-foreground text-lg md:text-xl">
+                  Enquiries are monitored regularly.
                 </li>
               </ul>
-              <h3 className="mb-4 font-headline text-3xl font-bold md:text-4xl text-primary">
+            </div>
+              {/* <h3 className="mb-4 font-headline text-3xl font-bold md:text-4xl text-primary">
                 Please Note:
               </h3>
               <ul className="list-disc pl-24">
@@ -103,7 +107,7 @@ export default function Home() {
               <p className="mx-auto mb-4 max-w-3xl md:max-w-5xl text-foreground text-lg md:text-xl">
                   Please be advised that our email address (info@Kasaescorts.co.uk) is not monitored for booking inquiries. All booking requests must be submitted via SMS or WhatsApp messaging to ensure a timely response.
               </p>
-            </div>
+            </div> */}
           </div>
         </section>
       </div>
