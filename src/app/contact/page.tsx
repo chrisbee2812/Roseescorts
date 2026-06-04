@@ -42,10 +42,10 @@ export default function Home() {
                   Welcome to Kasa. We appreciate your interest in our services.
               </p>
               <p className="mx-auto mb-4 max-w-3xl md:max-w-5xl text-foreground text-lg md:text-xl">
-                  To ensure a seamless booking experience, we kindly ask that all prospective clients review our <Link href="/bookings" className="text-primary font-bold">booking policy</Link> page prior to initiating contact.
+                  We provide profile listing, advertising visibility and enquiry management services.
               </p>
               <p className="mx-auto mb-8 max-w-3xl md:max-w-5xl text-foreground text-lg md:text-xl">
-                  All booking requests must be submitted via SMS or WhatsApp messaging to ensure a timely response.
+                  Please contact us by email or WhatsApp for all enquiries.
               </p>
               <h3 className="mb-4 font-headline text-3xl font-bold md:text-4xl text-primary">
                 Contact Information:
