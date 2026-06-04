@@ -14,20 +14,20 @@ const heroImage = PlaceHolderImages.find(p => p.id === "homepage-hero");
 export default function Home() {
   const [isPopupOpen, setIsPopupOpen] = useState(false);
 
-  useEffect(() => {
-    // Check if this is the homepage
-    if (window.location.pathname === '/') {
-      // Show popup every time — use sessionStorage if you want once per session
-      setIsPopupOpen(true);
+  // useEffect(() => {
+  //   // Check if this is the homepage
+  //   if (window.location.pathname === '/') {
+  //     // Show popup every time — use sessionStorage if you want once per session
+  //     setIsPopupOpen(true);
       
-      // OPTIONAL: Show only once per browser session (uncomment below)
-      // const hasSeenPopup = sessionStorage.getItem('hasSeenKasaPopup');
-      // if (!hasSeenPopup) {
-      //   setIsPopupOpen(true);
-      //   sessionStorage.setItem('hasSeenKasaPopup', 'true');
-      // }
-    }
-  }, []);
+  //     // OPTIONAL: Show only once per browser session (uncomment below)
+  //     // const hasSeenPopup = sessionStorage.getItem('hasSeenKasaPopup');
+  //     // if (!hasSeenPopup) {
+  //     //   setIsPopupOpen(true);
+  //     //   sessionStorage.setItem('hasSeenKasaPopup', 'true');
+  //     // }
+  //   }
+  // }, []);
 
   return (
     <>
@@ -165,7 +165,7 @@ export default function Home() {
         </div>
       </div>
       {/* Popup Dialog */}
-      <Dialog.Root open={isPopupOpen} onOpenChange={setIsPopupOpen}>
+      {/* <Dialog.Root open={isPopupOpen} onOpenChange={setIsPopupOpen}>
         <Dialog.Portal>
           <Dialog.Overlay className="fixed inset-0 bg-black/50 backdrop-blur-sm z-50" />
           <Dialog.Content className="fixed top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 z-50 w-[90%] max-w-md bg-white rounded-lg shadow-xl p-6">
@@ -207,7 +207,7 @@ export default function Home() {
             </Dialog.Close>
           </Dialog.Content>
         </Dialog.Portal>
-      </Dialog.Root>
+      </Dialog.Root> */}
     </>
   );
 }
